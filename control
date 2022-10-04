@@ -1,0 +1,8 @@
+Package: com.kustcc
+Name: kust
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: kustcc ImGui
+Maintainer: kust
+Author: KusTTT
